@@ -12,7 +12,7 @@ output=number.filter(function divisible(x)
 
 {
 
-    return x%2==0 ;
+    return x%5==0 ;
 
 });
 console.log(output);
