@@ -36,13 +36,6 @@
 // console.log(output);
 
 
-let number= [1,2,3,4,5,6,7,8,9,10]
- 
-let output=number.filter((x)=>
-{
-    return x>2;
-});
-console.log(output);
 // Find the sum of all the elements in the array.
 
 // arr= [1,2,3,4,5,6,7,8,9];
